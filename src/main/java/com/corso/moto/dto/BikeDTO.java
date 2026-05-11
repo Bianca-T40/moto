@@ -19,10 +19,7 @@ public class BikeDTO {
      
     private String brand;
 
-     
     private String model;
-
-
     private Integer engineCc;
 
     private String type;
